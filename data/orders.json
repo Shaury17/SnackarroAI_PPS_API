@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2025-05-01",
+    "orderId": "ORD001",
+    "items": ["Pizza", "Fries", "Coconut Water"]
+  },
+  {
+    "date": "2025-05-01",
+    "orderId": "ORD002",
+    "items": ["Burger", "Fries", "Iced Herbal Tea"]
+  },
+  {
+    "date": "2025-05-02",
+    "orderId": "ORD003",
+    "items": ["Pasta", "Garlic Bread", "Cheesecake"]
+  },
+  {
+    "date": "2025-05-02",
+    "orderId": "ORD004",
+    "items": ["Sushi", "Ramen", "Green Tea"]
+  },
+  {
+    "date": "2025-05-03",
+    "orderId": "ORD005",
+    "items": ["Hotdog", "Onion Rings", "Soda"]
+  },
+  {
+    "date": "2025-05-03",
+    "orderId": "ORD006",
+    "items": ["Sandwich", "Salad", "Fruit Smoothie"]
+  },
+  {
+    "date": "2025-05-04",
+    "orderId": "ORD007",
+    "items": ["Pancakes", "Coffee", "Donut"]
+  },
+  {
+    "date": "2025-05-04",
+    "orderId": "ORD008",
+    "items": ["Brownie", "Cupcake", "Ice Cream"]
+  },
+  {
+    "date": "2025-05-05",
+    "orderId": "ORD009",
+    "items": ["Tacos", "Nachos", "Protein Shake"]
+  },
+  {
+    "date": "2025-05-05",
+    "orderId": "ORD010",
+    "items": ["Trail Mix", "Greek Yogurt", "Cereal Bowl"]
+  },
+  {
+    "date": "2025-05-06",
+    "orderId": "ORD011",
+    "items": ["Avocado Toast", "Fruit Bowl", "Coffee"]
+  },
+  {
+    "date": "2025-05-06",
+    "orderId": "ORD012",
+    "items": ["Mac & Cheese", "Garlic Bread", "Soda"]
+  },
+  {
+    "date": "2025-05-07",
+    "orderId": "ORD013",
+    "items": ["Paneer Tikka", "Biryani", "Masala Dosa"]
+  },
+  {
+    "date": "2025-05-07",
+    "orderId": "ORD014",
+    "items": ["Samosa", "Falafel Wrap", "Hummus & Pita"]
+  },
+  {
+    "date": "2025-05-08",
+    "orderId": "ORD015",
+    "items": ["Quinoa Bowl", "Roasted Veggies", "Chia Pudding"]
+  },
+  {
+    "date": "2025-05-08",
+    "orderId": "ORD016",
+    "items": ["Boiled Eggs", "Protein Shake", "Omelette"]
+  },
+  {
+    "date": "2025-05-09",
+    "orderId": "ORD017",
+    "items": ["Waffles", "Fruit Bowl", "Coffee"]
+  },
+  {
+    "date": "2025-05-09",
+    "orderId": "ORD018",
+    "items": ["Tuna Salad", "Sweet Potato Mash", "Sparkling Water"]
+  },
+  {
+    "date": "2025-05-10",
+    "orderId": "ORD019",
+    "items": ["Croissant", "Muffin", "Greek Yogurt"]
+  },
+  {
+    "date": "2025-05-10",
+    "orderId": "ORD020",
+    "items": ["Quesadilla", "Fried Rice", "Iced Herbal Tea"]
+  }
+]

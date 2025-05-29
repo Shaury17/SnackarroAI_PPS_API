@@ -1,0 +1,239 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+frozenset({'Avocado Toast'}),frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+frozenset({'Coffee'}),frozenset({'Avocado Toast'}),0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Avocado Toast'}),frozenset({'Fruit Bowl'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Fruit Bowl'}),frozenset({'Avocado Toast'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Masala Dosa'}),frozenset({'Biryani'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Biryani'}),frozenset({'Masala Dosa'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Biryani'}),frozenset({'Paneer Tikka'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Paneer Tikka'}),frozenset({'Biryani'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Boiled Eggs'}),frozenset({'Omelette'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Omelette'}),frozenset({'Boiled Eggs'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Protein Shake'}),frozenset({'Boiled Eggs'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Boiled Eggs'}),frozenset({'Protein Shake'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Cupcake'}),frozenset({'Brownie'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Brownie'}),frozenset({'Cupcake'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Ice Cream'}),frozenset({'Brownie'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Brownie'}),frozenset({'Ice Cream'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fries'}),frozenset({'Burger'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Burger'}),frozenset({'Fries'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Iced Herbal Tea'}),frozenset({'Burger'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Burger'}),frozenset({'Iced Herbal Tea'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Greek Yogurt'}),frozenset({'Cereal Bowl'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Cereal Bowl'}),frozenset({'Greek Yogurt'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Trail Mix'}),frozenset({'Cereal Bowl'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Cereal Bowl'}),frozenset({'Trail Mix'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Cheesecake'}),frozenset({'Garlic Bread'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Garlic Bread'}),frozenset({'Cheesecake'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Cheesecake'}),frozenset({'Pasta'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Pasta'}),frozenset({'Cheesecake'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Chia Pudding'}),frozenset({'Quinoa Bowl'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Quinoa Bowl'}),frozenset({'Chia Pudding'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Chia Pudding'}),frozenset({'Roasted Veggies'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Roasted Veggies'}),frozenset({'Chia Pudding'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fries'}),frozenset({'Coconut Water'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Coconut Water'}),frozenset({'Fries'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Coconut Water'}),frozenset({'Pizza'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Pizza'}),frozenset({'Coconut Water'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Donut'}),frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+frozenset({'Coffee'}),frozenset({'Donut'}),0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Coffee'}),frozenset({'Fruit Bowl'}),0.15,0.1,0.1,0.6666666666666667,6.666666666666667,1.0,0.085,2.7000000000000006,1.0,0.6666666666666667,0.6296296296296298,0.8333333333333334
+frozenset({'Fruit Bowl'}),frozenset({'Coffee'}),0.1,0.15,0.1,1.0,6.666666666666667,1.0,0.085,inf,0.9444444444444444,0.6666666666666667,1.0,0.8333333333333334
+frozenset({'Coffee'}),frozenset({'Pancakes'}),0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Pancakes'}),frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+frozenset({'Coffee'}),frozenset({'Waffles'}),0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Waffles'}),frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+frozenset({'Croissant'}),frozenset({'Greek Yogurt'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Greek Yogurt'}),frozenset({'Croissant'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Croissant'}),frozenset({'Muffin'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Muffin'}),frozenset({'Croissant'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Cupcake'}),frozenset({'Ice Cream'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Ice Cream'}),frozenset({'Cupcake'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Donut'}),frozenset({'Pancakes'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Pancakes'}),frozenset({'Donut'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Hummus & Pita'}),frozenset({'Falafel Wrap'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Falafel Wrap'}),frozenset({'Hummus & Pita'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Samosa'}),frozenset({'Falafel Wrap'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Falafel Wrap'}),frozenset({'Samosa'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Iced Herbal Tea'}),frozenset({'Fried Rice'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Fried Rice'}),frozenset({'Iced Herbal Tea'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Quesadilla'}),frozenset({'Fried Rice'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fried Rice'}),frozenset({'Quesadilla'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fries'}),frozenset({'Iced Herbal Tea'}),0.1,0.1,0.05,0.5,5.0,1.0,0.04,1.8,0.8888888888888888,0.3333333333333333,0.4444444444444445,0.5
+frozenset({'Iced Herbal Tea'}),frozenset({'Fries'}),0.1,0.1,0.05,0.5,5.0,1.0,0.04,1.8,0.8888888888888888,0.3333333333333333,0.4444444444444445,0.5
+frozenset({'Fries'}),frozenset({'Pizza'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Pizza'}),frozenset({'Fries'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Waffles'}),frozenset({'Fruit Bowl'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Fruit Bowl'}),frozenset({'Waffles'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Salad'}),frozenset({'Fruit Smoothie'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fruit Smoothie'}),frozenset({'Salad'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fruit Smoothie'}),frozenset({'Sandwich'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sandwich'}),frozenset({'Fruit Smoothie'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Mac & Cheese'}),frozenset({'Garlic Bread'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Garlic Bread'}),frozenset({'Mac & Cheese'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Pasta'}),frozenset({'Garlic Bread'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Garlic Bread'}),frozenset({'Pasta'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Soda'}),frozenset({'Garlic Bread'}),0.1,0.1,0.05,0.5,5.0,1.0,0.04,1.8,0.8888888888888888,0.3333333333333333,0.4444444444444445,0.5
+frozenset({'Garlic Bread'}),frozenset({'Soda'}),0.1,0.1,0.05,0.5,5.0,1.0,0.04,1.8,0.8888888888888888,0.3333333333333333,0.4444444444444445,0.5
+frozenset({'Muffin'}),frozenset({'Greek Yogurt'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Greek Yogurt'}),frozenset({'Muffin'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Trail Mix'}),frozenset({'Greek Yogurt'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Greek Yogurt'}),frozenset({'Trail Mix'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Green Tea'}),frozenset({'Ramen'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Ramen'}),frozenset({'Green Tea'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Green Tea'}),frozenset({'Sushi'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sushi'}),frozenset({'Green Tea'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Onion Rings'}),frozenset({'Hotdog'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Hotdog'}),frozenset({'Onion Rings'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Soda'}),frozenset({'Hotdog'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Hotdog'}),frozenset({'Soda'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Samosa'}),frozenset({'Hummus & Pita'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Hummus & Pita'}),frozenset({'Samosa'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Iced Herbal Tea'}),frozenset({'Quesadilla'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Quesadilla'}),frozenset({'Iced Herbal Tea'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Soda'}),frozenset({'Mac & Cheese'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Mac & Cheese'}),frozenset({'Soda'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Masala Dosa'}),frozenset({'Paneer Tikka'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Paneer Tikka'}),frozenset({'Masala Dosa'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Nachos'}),frozenset({'Protein Shake'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Protein Shake'}),frozenset({'Nachos'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Nachos'}),frozenset({'Tacos'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Tacos'}),frozenset({'Nachos'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Protein Shake'}),frozenset({'Omelette'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Omelette'}),frozenset({'Protein Shake'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Soda'}),frozenset({'Onion Rings'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Onion Rings'}),frozenset({'Soda'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Protein Shake'}),frozenset({'Tacos'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Tacos'}),frozenset({'Protein Shake'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Quinoa Bowl'}),frozenset({'Roasted Veggies'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Roasted Veggies'}),frozenset({'Quinoa Bowl'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sushi'}),frozenset({'Ramen'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Ramen'}),frozenset({'Sushi'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Salad'}),frozenset({'Sandwich'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sandwich'}),frozenset({'Salad'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sparkling Water'}),frozenset({'Sweet Potato Mash'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sweet Potato Mash'}),frozenset({'Sparkling Water'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sparkling Water'}),frozenset({'Tuna Salad'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Tuna Salad'}),frozenset({'Sparkling Water'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Tuna Salad'}),frozenset({'Sweet Potato Mash'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sweet Potato Mash'}),frozenset({'Tuna Salad'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Avocado Toast', 'Coffee'})",frozenset({'Fruit Bowl'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Avocado Toast', 'Fruit Bowl'})",frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+"frozenset({'Coffee', 'Fruit Bowl'})",frozenset({'Avocado Toast'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Avocado Toast'}),"frozenset({'Coffee', 'Fruit Bowl'})",0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Coffee'}),"frozenset({'Avocado Toast', 'Fruit Bowl'})",0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Fruit Bowl'}),"frozenset({'Avocado Toast', 'Coffee'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+"frozenset({'Masala Dosa', 'Biryani'})",frozenset({'Paneer Tikka'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Masala Dosa', 'Paneer Tikka'})",frozenset({'Biryani'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Biryani', 'Paneer Tikka'})",frozenset({'Masala Dosa'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Masala Dosa'}),"frozenset({'Biryani', 'Paneer Tikka'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Biryani'}),"frozenset({'Masala Dosa', 'Paneer Tikka'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Paneer Tikka'}),"frozenset({'Masala Dosa', 'Biryani'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Protein Shake', 'Boiled Eggs'})",frozenset({'Omelette'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Protein Shake', 'Omelette'})",frozenset({'Boiled Eggs'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Boiled Eggs', 'Omelette'})",frozenset({'Protein Shake'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Protein Shake'}),"frozenset({'Boiled Eggs', 'Omelette'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Boiled Eggs'}),"frozenset({'Protein Shake', 'Omelette'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Omelette'}),"frozenset({'Protein Shake', 'Boiled Eggs'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Cupcake', 'Ice Cream'})",frozenset({'Brownie'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Cupcake', 'Brownie'})",frozenset({'Ice Cream'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Ice Cream', 'Brownie'})",frozenset({'Cupcake'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Cupcake'}),"frozenset({'Ice Cream', 'Brownie'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Ice Cream'}),"frozenset({'Cupcake', 'Brownie'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Brownie'}),"frozenset({'Cupcake', 'Ice Cream'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Fries', 'Iced Herbal Tea'})",frozenset({'Burger'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Fries', 'Burger'})",frozenset({'Iced Herbal Tea'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Iced Herbal Tea', 'Burger'})",frozenset({'Fries'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Fries'}),"frozenset({'Iced Herbal Tea', 'Burger'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Iced Herbal Tea'}),"frozenset({'Fries', 'Burger'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Burger'}),"frozenset({'Fries', 'Iced Herbal Tea'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Trail Mix', 'Greek Yogurt'})",frozenset({'Cereal Bowl'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Trail Mix', 'Cereal Bowl'})",frozenset({'Greek Yogurt'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Greek Yogurt', 'Cereal Bowl'})",frozenset({'Trail Mix'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Trail Mix'}),"frozenset({'Greek Yogurt', 'Cereal Bowl'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Greek Yogurt'}),"frozenset({'Trail Mix', 'Cereal Bowl'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Cereal Bowl'}),"frozenset({'Trail Mix', 'Greek Yogurt'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Cheesecake', 'Pasta'})",frozenset({'Garlic Bread'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Cheesecake', 'Garlic Bread'})",frozenset({'Pasta'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Pasta', 'Garlic Bread'})",frozenset({'Cheesecake'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Cheesecake'}),"frozenset({'Pasta', 'Garlic Bread'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Pasta'}),"frozenset({'Cheesecake', 'Garlic Bread'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Garlic Bread'}),"frozenset({'Cheesecake', 'Pasta'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+"frozenset({'Chia Pudding', 'Quinoa Bowl'})",frozenset({'Roasted Veggies'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Chia Pudding', 'Roasted Veggies'})",frozenset({'Quinoa Bowl'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Quinoa Bowl', 'Roasted Veggies'})",frozenset({'Chia Pudding'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Chia Pudding'}),"frozenset({'Quinoa Bowl', 'Roasted Veggies'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Quinoa Bowl'}),"frozenset({'Chia Pudding', 'Roasted Veggies'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Roasted Veggies'}),"frozenset({'Chia Pudding', 'Quinoa Bowl'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Fries', 'Coconut Water'})",frozenset({'Pizza'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Fries', 'Pizza'})",frozenset({'Coconut Water'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Coconut Water', 'Pizza'})",frozenset({'Fries'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Fries'}),"frozenset({'Coconut Water', 'Pizza'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Coconut Water'}),"frozenset({'Fries', 'Pizza'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Pizza'}),"frozenset({'Fries', 'Coconut Water'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Donut', 'Coffee'})",frozenset({'Pancakes'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Donut', 'Pancakes'})",frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+"frozenset({'Coffee', 'Pancakes'})",frozenset({'Donut'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Donut'}),"frozenset({'Coffee', 'Pancakes'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Coffee'}),"frozenset({'Donut', 'Pancakes'})",0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Pancakes'}),"frozenset({'Donut', 'Coffee'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Coffee', 'Waffles'})",frozenset({'Fruit Bowl'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Coffee', 'Fruit Bowl'})",frozenset({'Waffles'}),0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+"frozenset({'Waffles', 'Fruit Bowl'})",frozenset({'Coffee'}),0.05,0.15,0.05,1.0,6.666666666666667,1.0,0.0425,inf,0.8947368421052632,0.3333333333333333,1.0,0.6666666666666667
+frozenset({'Coffee'}),"frozenset({'Waffles', 'Fruit Bowl'})",0.15,0.05,0.05,0.33333333333333337,6.666666666666667,1.0,0.0425,1.425,1.0,0.3333333333333333,0.29824561403508776,0.6666666666666667
+frozenset({'Waffles'}),"frozenset({'Coffee', 'Fruit Bowl'})",0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Fruit Bowl'}),"frozenset({'Coffee', 'Waffles'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+"frozenset({'Croissant', 'Muffin'})",frozenset({'Greek Yogurt'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Croissant', 'Greek Yogurt'})",frozenset({'Muffin'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Muffin', 'Greek Yogurt'})",frozenset({'Croissant'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Croissant'}),"frozenset({'Muffin', 'Greek Yogurt'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Muffin'}),"frozenset({'Croissant', 'Greek Yogurt'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Greek Yogurt'}),"frozenset({'Croissant', 'Muffin'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+"frozenset({'Samosa', 'Hummus & Pita'})",frozenset({'Falafel Wrap'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Samosa', 'Falafel Wrap'})",frozenset({'Hummus & Pita'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Hummus & Pita', 'Falafel Wrap'})",frozenset({'Samosa'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Samosa'}),"frozenset({'Hummus & Pita', 'Falafel Wrap'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Hummus & Pita'}),"frozenset({'Samosa', 'Falafel Wrap'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Falafel Wrap'}),"frozenset({'Samosa', 'Hummus & Pita'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Iced Herbal Tea', 'Quesadilla'})",frozenset({'Fried Rice'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Iced Herbal Tea', 'Fried Rice'})",frozenset({'Quesadilla'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Quesadilla', 'Fried Rice'})",frozenset({'Iced Herbal Tea'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Iced Herbal Tea'}),"frozenset({'Quesadilla', 'Fried Rice'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Quesadilla'}),"frozenset({'Iced Herbal Tea', 'Fried Rice'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fried Rice'}),"frozenset({'Iced Herbal Tea', 'Quesadilla'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Salad', 'Fruit Smoothie'})",frozenset({'Sandwich'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Salad', 'Sandwich'})",frozenset({'Fruit Smoothie'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Fruit Smoothie', 'Sandwich'})",frozenset({'Salad'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Salad'}),"frozenset({'Fruit Smoothie', 'Sandwich'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Fruit Smoothie'}),"frozenset({'Salad', 'Sandwich'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sandwich'}),"frozenset({'Salad', 'Fruit Smoothie'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Soda', 'Mac & Cheese'})",frozenset({'Garlic Bread'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Soda', 'Garlic Bread'})",frozenset({'Mac & Cheese'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Mac & Cheese', 'Garlic Bread'})",frozenset({'Soda'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Soda'}),"frozenset({'Mac & Cheese', 'Garlic Bread'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Mac & Cheese'}),"frozenset({'Soda', 'Garlic Bread'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Garlic Bread'}),"frozenset({'Soda', 'Mac & Cheese'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+"frozenset({'Green Tea', 'Sushi'})",frozenset({'Ramen'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Green Tea', 'Ramen'})",frozenset({'Sushi'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Sushi', 'Ramen'})",frozenset({'Green Tea'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Green Tea'}),"frozenset({'Sushi', 'Ramen'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sushi'}),"frozenset({'Green Tea', 'Ramen'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Ramen'}),"frozenset({'Green Tea', 'Sushi'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Soda', 'Onion Rings'})",frozenset({'Hotdog'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Soda', 'Hotdog'})",frozenset({'Onion Rings'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Onion Rings', 'Hotdog'})",frozenset({'Soda'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+frozenset({'Soda'}),"frozenset({'Onion Rings', 'Hotdog'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Onion Rings'}),"frozenset({'Soda', 'Hotdog'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Hotdog'}),"frozenset({'Soda', 'Onion Rings'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Nachos', 'Protein Shake'})",frozenset({'Tacos'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Nachos', 'Tacos'})",frozenset({'Protein Shake'}),0.05,0.1,0.05,1.0,10.0,1.0,0.045,inf,0.9473684210526315,0.49999999999999994,1.0,0.75
+"frozenset({'Protein Shake', 'Tacos'})",frozenset({'Nachos'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Nachos'}),"frozenset({'Protein Shake', 'Tacos'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Protein Shake'}),"frozenset({'Nachos', 'Tacos'})",0.1,0.05,0.05,0.5,10.0,1.0,0.045,1.9,0.9999999999999999,0.49999999999999994,0.4736842105263158,0.75
+frozenset({'Tacos'}),"frozenset({'Nachos', 'Protein Shake'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Sparkling Water', 'Tuna Salad'})",frozenset({'Sweet Potato Mash'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Sparkling Water', 'Sweet Potato Mash'})",frozenset({'Tuna Salad'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+"frozenset({'Tuna Salad', 'Sweet Potato Mash'})",frozenset({'Sparkling Water'}),0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sparkling Water'}),"frozenset({'Tuna Salad', 'Sweet Potato Mash'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Tuna Salad'}),"frozenset({'Sparkling Water', 'Sweet Potato Mash'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
+frozenset({'Sweet Potato Mash'}),"frozenset({'Sparkling Water', 'Tuna Salad'})",0.05,0.05,0.05,1.0,20.0,1.0,0.0475,inf,1.0,1.0,1.0,1.0
