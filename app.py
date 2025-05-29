@@ -10,6 +10,10 @@ df = pd.read_csv('model/rules.csv')
 df['antecedents'] = df['antecedents'].apply(lambda x: set(eval(x.replace("frozenset", ""))))
 df['consequents'] = df['consequents'].apply(lambda x: set(eval(x.replace("frozenset", ""))))
 
+@app.route('/', methods=['GET'])
+def home():
+    return '''Past purchases API'''
+
 @app.route('/recommend/<string:txt>', methods=['GET'])
 def recommend(txt):
     item = txt
