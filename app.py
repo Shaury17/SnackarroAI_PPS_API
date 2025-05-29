@@ -4,7 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load and preprocess rules
-df = pd.read_csv('model/rules.csv')
+df = pd.read_csv('./model/rules.csv')
 
 # Convert string frozensets to actual Python sets
 df['antecedents'] = df['antecedents'].apply(lambda x: set(eval(x.replace("frozenset", ""))))
